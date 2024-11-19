@@ -13,7 +13,7 @@ const Index = () => {
       alignItems: "center",
     }}>
       <Text>
-        Hello, welcome to Suman!
+        Welcome to TalentConnect
       </Text>
       <Link href={"/about"}> Go to about</Link>
     </View>
